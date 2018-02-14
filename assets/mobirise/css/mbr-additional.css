@@ -1684,11 +1684,11 @@ body {
 }
 .cid-qGuPwNH2lk .nav-link:hover,
 .cid-qGuPwNH2lk .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #ffffff !important;
 }
 .cid-qGuPwOGbHX {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
